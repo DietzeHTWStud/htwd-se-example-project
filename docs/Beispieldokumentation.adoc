@@ -1,4 +1,6 @@
 :source-highlighter: highlight.js
+:imagesdir: images
+
 = Beispiel-Dokumentation mit AsciiDoc 
 Marcel Dietze s85613@htw-dresden.de
 1.0, 01.09.2019 
@@ -75,6 +77,10 @@ int main(int argc, char* argv[])
     printf("Hello, World!\n");
     return 0;
 }
+----
 
+
+=== Bilder
+image::Editor.PNG[Sunset,900,200]
 
 
