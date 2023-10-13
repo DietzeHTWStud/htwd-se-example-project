@@ -22,9 +22,44 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
  ** Another nested list item
 * List item
 
-.Beispiel: sortierte Liste .<Name2>
+.Ordered list
 . Step 1
 . Step 2
 .. Step 2a
 .. Step 2b
 . Step 3
+
+=== Tabellen
+
+.Formatierung von Text
+|===
+|Formatierung |Syntax| Beschreibung
+
+|bold
+|*bold*
+|fetter Text
+
+|italic
+|_italic_
+|kursiver Text
+
+|monospace
+|`monospace`
+|Text mit fester Laufweite
+
+|bolditalic
+|*_bolditalic_*
+|Text mit kombinierter Formatierung
+
+|bolditalic
+|**bold**__italic__
+|Text mit Formatierung innerhalb eines Wortes
+|===
+
+=== Textformatierung
+
+**S**__oftware__ **E**__nginee``ring``__
+
+
+
+
