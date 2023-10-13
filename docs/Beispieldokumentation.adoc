@@ -91,3 +91,12 @@ image::Editor.PNG[Sunset,900,200]
 * <<Tabelle, Tabelle>>
 * <<KennenlernenderSyntax, KennenlernenderSyntax>>
 
+=== Includes
+
+[source,c]
+----
+include::../src/hello_world.c[lines=1..5]
+----
+
+
+
